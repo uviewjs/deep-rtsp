@@ -1,0 +1,23 @@
+{
+  "server": {
+    "http_port": ":10088",
+    "ice_servers": [
+      "stun:stun.l.google.com:19302"
+    ],
+    "ice_username": "",
+    "ice_credential": "",
+    "webrtc_port_min": 0,
+    "webrtc_port_max": 0
+  },
+  "streams": {
+    "0A35B4F5-6FEF-6533-AA09-95954297675D": {
+      "url": "rtsp://192.16.13.80:10054/live/dock",
+      "status": true,
+      "on_demand": false,
+      "disable_audio": false,
+      "debug": false,
+      "Codecs": null,
+      "Cl": null
+    }
+  }
+}
