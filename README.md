@@ -7,7 +7,7 @@
 #### 操作步骤
 `1.[ git clone https://gitee.com/deep-rtsp/deep-rtsp.git](https://github.com/uviewjs/deep-rtsp.git) `
 
-#### 2.将文件上传至服务器指定目录
+#### 2.将文件上传至服务器指定目录（记得解压web.tar）
 
 #### 进入目标目录
 `cd deep-rtsp`
